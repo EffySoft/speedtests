@@ -1,0 +1,11 @@
+C:\dev\SpeedTest\bin\Debug\netcoreapp2.0\SpeedTest.deps.json
+C:\dev\SpeedTest\bin\Debug\netcoreapp2.0\SpeedTest.runtimeconfig.json
+C:\dev\SpeedTest\bin\Debug\netcoreapp2.0\SpeedTest.runtimeconfig.dev.json
+C:\dev\SpeedTest\bin\Debug\netcoreapp2.0\SpeedTest.dll
+C:\dev\SpeedTest\bin\Debug\netcoreapp2.0\SpeedTest.pdb
+C:\dev\SpeedTest\obj\Debug\netcoreapp2.0\SpeedTest.csprojAssemblyReference.cache
+C:\dev\SpeedTest\obj\Debug\netcoreapp2.0\SpeedTest.csproj.CoreCompileInputs.cache
+C:\dev\SpeedTest\obj\Debug\netcoreapp2.0\SpeedTest.AssemblyInfoInputs.cache
+C:\dev\SpeedTest\obj\Debug\netcoreapp2.0\SpeedTest.AssemblyInfo.cs
+C:\dev\SpeedTest\obj\Debug\netcoreapp2.0\SpeedTest.dll
+C:\dev\SpeedTest\obj\Debug\netcoreapp2.0\SpeedTest.pdb
